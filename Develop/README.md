@@ -1,35 +1,35 @@
- # ReadMe Creator
+# Title
 
-  ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
+  ![badge](https://img.shields.io/badge/license-APACHE-orange)
 
   ## Description
-  An application that formats and creates a ReadMe.md for projects.
+  Description
 
   ## Table of Contents
-  -[Description](#description)
-  -[Installation](#installation)
-  -[Usage](#usage)
-  -[License](#license)
-  -[Credits](#contributing)
-  -[Test](#test)
-  -[Contact Me with Questions](#questions)
+  -[Description](#description)  
+  -[Installation](#installation)  
+  -[Usage](#usage)  
+  -[License](#license)  
+  -[Credits](#contributing)  
+  -[Test](#test)  
+  -[Contact Me with Questions](#questions)  
 
   ## Installation
-  Run this program through node.
+  Installation
 
   ## Usage
-  After running through Node, you will have a professional ReadMe added to the current folder you are working in.
+  Usage
   
   ## License
-  Project under a MIT license. 
-  [Information about MIT License](https://choosealicense.com/licenses/mit/)
+  Project under a Apache license.  
+  [Information about the Apache License](https://choosealicense.com/licenses/apache-2.0/)
 
   ## Credits
-  Google and my teachers.
+  Credits
 
   ## Test
-  To test this, copy this program in VS Code and run node index. Follow the prompts and you will have a professional ReadMe created.
+  Tests
 
   ## Questions?
-  -Github: https://github.com/alester77
+  -Github: https://github.com/alester77  
   -E-mail: alester0284@gmail.com
