@@ -32,7 +32,7 @@ function renderLicenseSection(license) {
   if (license !== 'None') {
     return `
   ## License
-  Project under a ${license} license. 
+  Project under a ${license} license.  
   ${renderLicenseLink(license)}`;
   } else {
     return '';
@@ -49,13 +49,13 @@ function generateMarkdown(data) {
   ${data.description}
 
   ## Table of Contents
-  -[Description](#description)
-  -[Installation](#installation)
-  -[Usage](#usage)
-  -[License](#license)
-  -[Credits](#contributing)
-  -[Test](#test)
-  -[Contact Me with Questions](#questions)
+  -[Description](#description)  
+  -[Installation](#installation)  
+  -[Usage](#usage)  
+  -[License](#license)  
+  -[Credits](#contributing)  
+  -[Test](#test)  
+  -[Contact Me with Questions](#questions)  
 
   ## Installation
   ${data.installation}
@@ -71,7 +71,7 @@ function generateMarkdown(data) {
   ${data.test}
 
   ## Questions?
-  -Github: ${data.github}
+  -Github: ${data.github}  
   -E-mail: ${data.email}`;
 }
 
