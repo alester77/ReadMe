@@ -21,7 +21,7 @@
   After running through Node, you will have a professional ReadMe added to the current folder you are working in.
   
   ## License
-  Project under a MIT license. 
+  Project under a MIT license.   
   [Information about MIT License](https://choosealicense.com/licenses/mit/)
 
   ## Credits
