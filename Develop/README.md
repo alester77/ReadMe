@@ -1,5 +1,5 @@
- #dsfs
-  /Develop/utils/images/MIT.svg
+ #dsfsd
+  ![MIT image] (https://img.shields.io/badge/license-MIT-brightgreen)
 
   ## Description
   sdfsdf
@@ -17,17 +17,17 @@
   sdfsdf
 
   ## Usage
-  sdfsd
+  dsf
 
   ## License
   MIT
 
   ## Credits
-  sdfs
+  sdfsdf
 
   ## Test
-  sdfsd
+  dsfdfs
 
   ## Questions?
-  -Github: sdfs
+  -Github: dfs
   -E-mail: sdf
