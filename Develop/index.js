@@ -27,10 +27,10 @@ const questions = [
     message: 'Please give the usage for your project.',
   },
   {
-    type: 'checkbox',
+    type: 'list',
     name: 'license',
     message: 'Please select a license.',
-    choices: ['MIT', 'Apache', 'GNU'],
+    choices: ['MIT', 'Apache', 'GNU', "None"],
   },
   {
     type: 'input',

@@ -1,19 +1,33 @@
 // TODO: Create a function that returns a license badge based on which license is passed in
 // If there is no license, return an empty string
-function renderLicenseBadge(license) {}
+function renderLicenseBadge(license) {
+if (license == 'MIT') {
+  return src='/Develop/utils/images/MIT.svg';
+} else if (license == 'Apache') {
+  return src='/Develop/utils/images/apache.svg';
+} else if (license == 'GNU') {
+  return src='/Develop/utils/images/apache.svg';
+} else {
+  return '';
+}}
 
 
 // TODO: Create a function that returns the license link
 // If there is no license, return an empty string
-function renderLicenseLink(license) {}
+function renderLicenseLink(license) {
+
+}
 
 // TODO: Create a function that returns the license section of README
 // If there is no license, return an empty string
-function renderLicenseSection(license) {}
+function renderLicenseSection(license) {
+
+}
 
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
   return ` #${data.title}
+  ${renderLicenseBadge(data.license)}
 
   ## Description
   ${data.description}
@@ -25,7 +39,7 @@ function generateMarkdown(data) {
   -[License](#license)
   -[Credits](#contributing)
   -[Test](#test)
-  -[Contact Me with Questions](#github)
+  -[Contact Me with Questions](#questions)
 
   ## Installation
   ${data.installation}
