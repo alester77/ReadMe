@@ -6,12 +6,12 @@
   An application that formats and creates a ReadMe.md for projects.
 
   ## Table of Contents
-  -[Description](#description)
-  -[Installation](#installation)
-  -[Usage](#usage)
-  -[License](#license)
-  -[Credits](#contributing)
-  -[Test](#test)
+  -[Description](#description)  
+  -[Installation](#installation)  
+  -[Usage](#usage)  
+  -[License](#license)  
+  -[Credits](#contributing)  
+  -[Test](#test)  
   -[Contact Me with Questions](#questions)
 
   ## Installation
@@ -31,6 +31,5 @@
   To test this, copy this program in VS Code and run node index. Follow the prompts and you will have a professional ReadMe created.
 
   ## Questions?
-  -Github: https://github.com/alester77
-  /
+  -Github: https://github.com/alester77  
   -E-mail: alester0284@gmail.com
